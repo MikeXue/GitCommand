@@ -1,0 +1,30 @@
+{
+  "name": "ex2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/www",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bellcliff/practice-mean.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bellcliff/practice-mean/issues"
+  },
+  "homepage": "https://github.com/bellcliff/practice-mean#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cookie-parser": "^1.4.0",
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "lodash": "^3.10.1",
+    "mongodb": "^2.0.49",
+    "morgan": "^1.6.1",
+    "q": "^1.4.1",
+    "serve-favicon": "^2.3.0"
+  }
+}
